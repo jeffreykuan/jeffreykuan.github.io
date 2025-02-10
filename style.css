@@ -18,6 +18,10 @@ h1,h2,h3 {
   line-height:1.2
 }
 
+.profile-picture {
+  max-width: 100%;
+}
+
 .navbar {
   list-style-type: none;
   margin: 0;
